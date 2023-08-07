@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map>
+    <intersection id="1" latitude="45.7" longitude="4.8"></intersection>
+    <intersection id="2" latitude="45.7" longitude="4.8"></intersection>
+    <segment destination="2" length="72.60" name="Rue Saint-Victorien" origin="1"/>
+    <segment destination="1" length="60.10" name="Boulevard 11 Novembre" origin="2"/>
+</map>
