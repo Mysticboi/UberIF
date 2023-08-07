@@ -1,6 +1,6 @@
 # UberIF
 
-A Java app with GUI where you can import a map from an xml file and a tour from a xml file and the shortest/fastest path will be calculated.
+A Java app with GUI where you can import a map from an xml file and a tour from an xml file and the shortest/fastest path will be calculated.
 
 ## How to launch the application:
 
